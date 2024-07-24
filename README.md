@@ -1,2 +1,1 @@
-mint token 
-tomi rahman
+mint token swisstronik
